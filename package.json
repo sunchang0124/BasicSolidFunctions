@@ -1,0 +1,26 @@
+{
+  "name": "basic_solid_login",
+  "version": "1.0.0",
+  "description": "This pkg creates basic solid functions for using in Nanobench (for Translator project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunchang0124"
+  },
+  "keywords": [
+    "solid",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Chang Sun",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "js-yaml": "^3.14.0",
+    "rdflib": "^1.3.1",
+    "solid-auth-cli": "^1.0.14"
+  }
+}
